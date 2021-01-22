@@ -1,3 +1,3 @@
-# SDProc
+# GECCO'21 EAHPC Workshop Web Site
 
-Website for [Scholarly Document Processing workshop](https://sdproc.org/)
+Website code for the GECCO '21 Evolutionary Algorithm in High-performance Computing Workshop
