@@ -1,6 +1,6 @@
-# GECCO'21 EAHPC Workshop Web Site
+# GECCO'22 EAHPC Workshop Web Site
 
-Website code for the GECCO '21 Evolutionary Algorithm in High-performance Computing Workshop
+Website code for the GECCO '22 Evolutionary Algorithm in High-performance 
+Computing Workshop
 
-The web site is [here](https://piprrr.github.io/gecco_eahpc_workshop_site/)
-
+The web site is [here](https://markcoletti.github.io/gecco_eahpc_workshop_site/)
